@@ -4,19 +4,27 @@ Employee churn prediction.
 This project leverages the IBM HR Analytics Employee Attrition & Performance dataset to provide insights into the factors influencing employee attrition. By analyzing employee demographics, job satisfaction, work-life balance, and performance metrics, the goal is to identify the key contributors to attrition. This analysis helps organizations implement data-driven strategies to enhance retention, satisfaction, and overall performance.
 
 Objective
+
 The primary objective of this project is to analyze the factors influencing employee attrition by examining variables such as:
 
 Demographics: Employee age, gender, job role, and department.
+
 Satisfaction Levels: Job satisfaction, environment satisfaction, and work-life balance.
+
 Other Factors: Monthly income, distance from home, and performance ratings.
+
 Using statistical and machine learning techniques, the project aims to:
 
 Identify significant predictors of attrition.
+
 Develop a model to estimate the probability of an employee leaving.
+
 Provide actionable recommendations for retention and organizational optimization.
 
 
 Research Questions
+
+
 What demographic and workplace characteristics are most strongly associated with employee attrition?
 How do income and distance from home influence attrition probability?
 Can statistical or machine learning models accurately predict attrition?
