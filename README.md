@@ -26,17 +26,16 @@ Research Questions
 
 
 What demographic and workplace characteristics are most strongly associated with employee attrition?
+
 How do income and distance from home influence attrition probability?
+
 Can statistical or machine learning models accurately predict attrition?
+
 Are some job roles or departments more prone to attrition?
+
 How do performance ratings affect retention across different satisfaction levels?
-Files in this Repository
-Project Documentation: Includes the overview, objective, and research questions.
-Dataset: Contains the IBM HR Analytics dataset used for this analysis.
-Notebooks: Code files for data preprocessing, analysis, and model development.
-Results and Insights: Key findings and actionable recommendations.
+
+
 
 Contact
 If you would like to explore the files or collaborate on this project, feel free to reach out on LinkedIn.
-
-Name: Raj Purohith Arjun
